@@ -1,0 +1,6 @@
+WATTWISE ENERGY SOLUTIONS v.1.0.0 [APP VERSION]
+Java Desktop Utility for Energy Awareness and Optimization
+
+PERSONAL INFORMATION [DO NOT DELETE/ALTER ANYTHING BELOW!]
+Username:: admin
+Password:: admin
